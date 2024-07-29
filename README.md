@@ -14,18 +14,9 @@ In the realm of healthcare, understanding the complex dynamics behind the occurr
 This project aims to delve into the vast pool of patient data, harnessing the power of data analysis and machine learning, to explore patterns and predictors associated with sepsis occurrence. By leveraging advanced computational techniques and drawing insights from comprehensive patient records, this research endeavor seeks to uncover hidden correlations, risk factors, and potential early warning signs that can facilitate earlier diagnosis and intervention.
 
 Hypothesis
-- Hypothesis 1: Patients with higher body mass index (BMI) values (M11) have a lower risk of sepsis.
-
-Null Hypothesis: There is no association between body mass index (BMI) values (M11) and the risk of sepsis.
-Alternate Hypothesis: Patients with higher body mass index (BMI) values (M11) have a lower risk of sepsis.
-- Hypothesis 2: Older patients are more likely to develop sepsis compared to younger patients.
-
-Null Hypothesis: There is no difference in the likelihood of developing sepsis between older and younger patients.
-Alternate Hypothesis: Older patients are more likely to develop sepsis compared to younger patients.
-- Hypothesis 3: Higher plasma glucose levels (PRG) are associated with an increased risk of developing sepsis.
-
-Null Hypothesis: There is no association between higher plasma glucose levels (PRG) and the risk of developing sepsis.
-Alternate Hypothesis: Higher plasma glucose levels (PRG) are associated with an increased risk of developing sepsis.
+**Null Hypotheisi (H0)**  - There is no significant correlation between blood pressure and sepsis  
+ **Alternative Hypothesis (H1)** - There is a significant correlation between blood pressure and sepsis
+ 
 Predictive Model
 After cleaning the data and applying feature selection, we defined our objective as a binary classification problem: predicting death during hospitalization through 90 days after discharge among sepsis patients.
 
