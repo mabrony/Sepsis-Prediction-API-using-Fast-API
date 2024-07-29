@@ -14,7 +14,7 @@ services:
 
   # Define the 'client' service
   client:
-    # Build the 'client' service using the Dockerfile in the './frontend' directory
+    # Build the 'client' service using the Dockerfile in the './App' directory
     build:
       context: .
       dockerfile: App/Dockerfile
