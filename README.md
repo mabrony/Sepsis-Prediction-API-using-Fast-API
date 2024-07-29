@@ -14,7 +14,8 @@ In the realm of healthcare, understanding the complex dynamics behind the occurr
 This project aims to delve into the vast pool of patient data, harnessing the power of data analysis and machine learning, to explore patterns and predictors associated with sepsis occurrence. By leveraging advanced computational techniques and drawing insights from comprehensive patient records, this research endeavor seeks to uncover hidden correlations, risk factors, and potential early warning signs that can facilitate earlier diagnosis and intervention.
 
 Hypothesis
-**Null Hypotheisi (H0)**  - There is no significant correlation between blood pressure and sepsis  
+
+**Null Hypothesis (H0)**  - There is no significant correlation between blood pressure and sepsis  
  **Alternative Hypothesis (H1)** - There is a significant correlation between blood pressure and sepsis
  
 Predictive Model
